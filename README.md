@@ -36,6 +36,7 @@ A predictive model achieving **75.6% accuracy** and **0.827 ROC-AUC** that ident
 ---
 
 ## 🔍 Key Findings
+<img width="1785" height="1189" alt="download (3)" src="https://github.com/user-attachments/assets/a7fabcdd-8bcb-4f39-90c2-c391942817d1" />
 
 ### Surprising Discoveries
 
