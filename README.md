@@ -25,7 +25,7 @@
 
 ## 🎯 Project Overview
 
-This project develops a **binary logistic regression model** to predict customer purchase behavior for a new insurance product. Using a dataset of 14,016 customers with demographic, behavioral, and transactional features, the analysis identifies key predictors of purchase likelihood and provides actionable marketing insights.
+This project develops a **binary logistic regression model** to predict customer purchase behavior for a new insurance product. Using a dataset of around 14,016 customers with demographic, behavioral, and transactional features, the analysis identifies key predictors of purchase likelihood and provides actionable marketing insights.
 
 ### Business Problem
 An insurance company launched a new product and needs to identify which existing customers are most likely to purchase it. With limited marketing budgets, targeting the right customers is critical for maximizing ROI and conversion rates.
